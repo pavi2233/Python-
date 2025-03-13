@@ -1,0 +1,50 @@
+thisset={"papaya","banana","apple"}
+
+print(thisset)
+
+   output:
+       {'papaya', 'banana', 'apple'}
+
+thisset=['123','456','789']
+
+print(thisset)
+
+
+  output:
+    ['123', '456', '789']
+
+
+mytuple={'pavi','soni','supriya'}
+
+print(mytuple)
+
+
+   output:
+     {'soni', 'supriya', 'pavi'}
+
+
+mylist=["9398001120","8309746632","7702997134"]
+
+print(mylist)
+
+
+  output:
+       ['9398001120', '8309746632', '7702997134']
+
+thisset=['pavi','soni','kalyan','rohit','nandu','thanvika','deepu']
+
+print(thisset)
+
+
+   output:
+    ['pavi', 'soni', 'kalyan', 'rohit', 'nandu', 'thanvika', 'deepu']
+
+thisdict =	{
+  "brand": "new",
+  "model": "suziki",
+  "year": 1890
+}
+
+print(thisdict)
+    output:
+       {'brand': 'new', 'model': 'suziki', 'year': 1890}
