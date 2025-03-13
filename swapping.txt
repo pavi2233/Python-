@@ -1,0 +1,20 @@
+a=90
+
+b=150
+
+temp=a
+
+a=b
+
+b=temp
+
+print(a)
+
+print(b)
+
+
+150
+90
+
+
+=== Code Execution Successful ===
