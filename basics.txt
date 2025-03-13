@@ -1,0 +1,136 @@
+s="pinky"
+
+s2="pavi"
+
+print(s+s2)
+
+     output:
+       pinkypavi
+
+
+
+s1='pavithra'
+
+s2='nandu'
+s3='deepu'
+
+print(s1+s2+s3)
+
+   output:
+      pavithranandudeepu
+
+
+
+print(1111)
+
+       output:
+           1111
+
+print(56)
+
+   output:
+      56
+
+c=20+50j
+
+print(c)
+
+print(type(c))
+     output:
+        (20+50j)
+
+      <class 'complex'>
+a=20
+b=5
+
+c=a<b
+
+print(c)
+
+print(type(c))
+
+         output:
+              False
+
+a=250
+b=300
+
+c=a<b
+
+print(type(c))
+    output:
+     False
+
+s="programming"
+print(s)
+
+print(type(s))
+
+
+       output:
+          programming
+
+            
+<class 'str'>
+
+s='python'
+
+print(s)
+
+print(type(s))
+       output:
+          python
+
+         <class 'str'>
+
+l=[10,20.3,3+4j,"pythpn",True,89]
+
+print(type(1))
+
+print(1)
+
+
+output:
+   <class 'int'>
+
+     1  
+
+l=[5,20.4,2+5j,"programming",False,50]
+
+print(type(3))
+
+print(3)
+    output:
+    
+t=(50,40,30,20,10)
+
+print(type(t))
+
+print(t)
+
+
+     output:
+    <class 'tuple'>
+
+   (50, 40, 30, 20, 10)
+
+
+t=(20)
+
+print(type(t))
+
+print(t)
+    output:
+    <class 'int'>
+
+       20
+
+t=(2+5j)
+
+print(type(t))
+print(t)
+    output:
+     <class 'complex'>
+
+       (2+5j)
+
