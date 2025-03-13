@@ -1,0 +1,49 @@
+a=int(input("enter  first number"))
+
+b=int(input("enter second number"))
+
+add=a+b
+sub=a-b
+
+mul=a*b
+
+div=a/b
+
+mod=a%b
+
+floordiv=a//b
+
+exponential=a**b
+
+print(add)
+
+print(sub)
+
+print(mul)
+
+print(div)
+
+print(mod)
+
+print(floordiv)
+
+print(exponential)
+
+
+
+enter  first number15
+
+enter second number19
+
+34
+
+-4
+
+285
+
+0.7894736842105263
+
+15
+0
+
+22168378200531005859375
