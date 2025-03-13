@@ -1,0 +1,17 @@
+length=23
+
+breadth=15
+
+area=length*breadth
+
+perimeter=(2*length)+(2*breadth)
+
+print(area)
+
+print(perimeter)
+
+
+
+345
+76
+===code execution successful===
