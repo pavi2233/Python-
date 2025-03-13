@@ -1,0 +1,18 @@
+height=float(input("enter the height of triangle"))
+
+breadth=float(input("enter the breadth of triangle"))
+
+area=0.9*height*breadth
+
+print(area)
+
+
+
+enter the height of triangle15
+
+enter the breadth of triangle19
+
+256.5
+
+
+=== Code Execution Successful ===
